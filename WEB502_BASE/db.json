@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone 16",
+      "price": 999,
+      "description": "iPhone 16 được trang bị chip A18 và cụm camera được nâng cấp vượt trội.",
+      "image": "/images/iphone16.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Samsung Galaxy S24",
+      "price": 899,
+      "description": "Galaxy S24 nổi bật với màn hình Dynamic AMOLED 2X và camera AI thế hệ mới.",
+      "image": "/images/s24.jpg"
+    },
+    {
+      "id": 3,
+      "title": "MacBook Pro M3",
+      "price": 1799,
+      "description": "MacBook Pro M3 mang lại hiệu năng cực cao và thời lượng pin vượt trội.",
+      "image": "/images/macbookm3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "ASUS ROG Strix G16",
+      "price": 1599,
+      "description": "Laptop gaming ROG Strix G16 với GPU RTX 4070 và màn hình 240Hz.",
+      "image": "/images/rogstrixg16.jpg"
+    },
+    {
+      "id": 5,
+      "title": "OPPO F19",
+      "price": 399,
+      "description": "OPPO F19 có màn hình AMOLED và sạc nhanh VOOC 33W.",
+      "image": "/images/oppoF19.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Xiaomi 14 Ultra",
+      "price": 749,
+      "description": "Xiaomi 14 Ultra sở hữu camera Leica và chip Snapdragon 8 Gen 3.",
+      "image": "/images/xiaomi14ultra.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Sony WH-1000XM5",
+      "price": 399,
+      "description": "Tai nghe chống ồn Sony WH-1000XM5 với thời lượng pin 30 giờ.",
+      "image": "/images/sonywh1000xm5.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Apple Watch Series 9",
+      "price": 499,
+      "description": "Apple Watch Series 9 với chip S9 và tính năng Double Tap tiện lợi.",
+      "image": "/images/applewatch9.jpg"
+    },
+    {
+      "id": 9,
+      "title": "iPad Pro M2",
+      "price": 1099,
+      "description": "iPad Pro M2 mang lại hiệu năng cực nhanh với màn Liquid Retina XDR.",
+      "image": "/images/ipadprom2.jpg"
+    },
+    {
+      "id": 10,
+      "title": "AirPods Pro 2",
+      "price": 249,
+      "description": "AirPods Pro 2 cải tiến chống ồn chủ động và âm thanh rõ nét hơn.",
+      "image": "/images/airpodspro2.jpg"
+    }
+  ]
+}
