@@ -41,6 +41,19 @@ function Layout() {
                 aria-label="Search"
               />
             </form>
+            {/* 🔹 Nút chuyển layout User/Admin */}
+            <ul className="navbar-nav">
+              <li className="nav-item">
+                <Link className="btn btn-outline-info btn-sm me-2" to="/products">
+                  User
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link className="btn btn-outline-warning btn-sm" to="/admin">
+                  Admin
+                </Link>
+              </li>
+            </ul>
           </div>
         </div>
       </nav>

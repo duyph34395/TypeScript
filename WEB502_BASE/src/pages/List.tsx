@@ -16,7 +16,6 @@ function List() {
 
   const perPage = 8;
 
-  // 🔹 Gọi API lấy sản phẩm (có phân trang và tìm kiếm)
   useEffect(() => {
     fetch(
       `http://localhost:3000/products?_page=${page}&_limit=${perPage}&title_like=${search}`

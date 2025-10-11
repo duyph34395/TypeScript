@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "iPhone 16",
-      "price": 999,
+      "price": "560",
       "description": "iPhone 16 được trang bị chip A18 và cụm camera được nâng cấp vượt trội.",
       "image": "/images/iphone16.jpg"
     },
